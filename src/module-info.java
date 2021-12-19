@@ -1,0 +1,2 @@
+module addressbooktest {
+}
